@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Experiment.unity
     guid: 387c4c47a9b103e4d8ea6edb84cd950d
+  - enabled: 1
+    path: Assets/Scenes/LowPolyarea.unity
+    guid: ca1c42d857c435b4495ad65120d511c1
+  - enabled: 0
+    path: Assets/Scenes/Props.unity
+    guid: 9c3991c480cf64949bc34c8780b9c138
   m_configObjects: {}
